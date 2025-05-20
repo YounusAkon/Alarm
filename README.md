@@ -23,6 +23,7 @@ A simple Flutter application that includes onboarding screens, location services
 ## 📂 Project Structure
 
 
+
 lib/
 ├── screens/
 │ ├── screens1.dart # Onboarding or welcome screen 1
